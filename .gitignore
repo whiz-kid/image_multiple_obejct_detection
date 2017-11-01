@@ -1,0 +1,7 @@
+*.pyc
+.DS_Store
+Pictures
+*.jpeg
+*.jpg
+*.png
+*.npy
