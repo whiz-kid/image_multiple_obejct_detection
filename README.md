@@ -3,7 +3,7 @@ Convultion Neural Network implemented in Keras Framework to detect multiple obje
 
 Model Layers :
 
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Parameter No.   
 =================================================================
 conv2d_9 (Conv2D)            (None, 32, 100, 100)      896       
 _________________________________________________________________
